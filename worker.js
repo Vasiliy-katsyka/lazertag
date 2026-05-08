@@ -1,3 +1,4 @@
+// лазер так бот
 const PREMIUM_EMOJIS = {
     "пистолет": '<tg-emoji emoji-id="5258278668936945760">🔫</tg-emoji>',
     "мишень": '<tg-emoji emoji-id="5350460637182993292">🎯</tg-emoji>',
